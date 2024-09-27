@@ -1,5 +1,5 @@
 """
-    tcp服务端标准流程
+    tcp服务端(server)标准流程
 """
 from socket import *
 
